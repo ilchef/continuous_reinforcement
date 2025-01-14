@@ -1,0 +1,41 @@
+# Data files
+*.csv
+*.rds
+*.xlsx
+*.xls
+*.sav
+*.dat
+*.dta
+*.sas7bdat
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.json
+*.jsonl
+
+# R specific data
+.Rdata
+.RData
+.rdata
+.rds
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Binary data
+*.bin
+*.pkl
+*.pickle
+
+# Compressed data
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Temp files
+*.tmp
+~$*
